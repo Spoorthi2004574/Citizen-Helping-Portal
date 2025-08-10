@@ -62,12 +62,6 @@ Citizen_help_portal/
 ├── script.js
 ├── style.css
 └── style2.css
-
-Copy
-Edit
-
-
-
 ```
 ---
 
