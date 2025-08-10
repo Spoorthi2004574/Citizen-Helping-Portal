@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Travel Documents</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Travel Documents</h1>
+  <nav>
+    <a href="/index.html">Home</a>
+  </nav>
+</header>
+
+<main>
+  <section>
+    <h2 style="text-align:center; margin: 20px 0;">Travel Document Guides</h2>
+    <div class="doc-container">
+
+      <!-- Passport -->
+      <div class="doc-card" onclick="toggleDetails('passport')">
+        <img src="https://img.icons8.com/ios-filled/64/E15D44/passport.png" alt="Passport">
+        <h3>Passport</h3>
+        <p>Official travel document issued by the government.</p>
+        <a href="passport.html" class="hero-btn" style="display:inline-block; margin-top:10px;">View Details</a>
+      </div>
+
+      <!-- Vehicle Registration Certificate (RC) -->
+      <div class="doc-card" onclick="toggleDetails('vehicle-rc')">
+        <img src="https://img.icons8.com/ios-filled/64/E15D44/car.png" alt="Vehicle RC">
+        <h3>Vehicle Registration Certificate (RC)</h3>
+        <p>Official document proving ownership and registration of a vehicle.</p>
+        <a href="vehicle-rc.html" class="hero-btn" style="display:inline-block; margin-top:10px;">View Details</a>
+      </div>
+
+      <!-- International Driving Permit -->
+      <div class="doc-card" onclick="toggleDetails('idp')">
+        <img src="https://img.icons8.com/ios-filled/64/E15D44/car.png" alt="IDP">
+        <h3>International Driving Permit (IDP)</h3>
+        <p>Allows you to legally drive in foreign countries along with your local license.</p>
+        <a href="idp.html" class="hero-btn" style="display:inline-block; margin-top:10px;">View Details</a>
+      </div>
+
+
+
+      
+  </section>
+</main>
+
+<footer>
+  © 2025 Government Document Guide | All Rights Reserved
+</footer>
+
+<script>
+function toggleDetails(id) {
+  var element = document.getElementById(id);
+  element.classList.toggle('show');
+}
+</script>
+
+</body>
+</html>

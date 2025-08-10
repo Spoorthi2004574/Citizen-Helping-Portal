@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eligibility Documents</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Eligibility Documents</h1>
+  <nav>
+     <a href="/index.html" >Home</a> 
+  </nav>
+</header>
+
+<main>
+  <section>
+    <h2 style="text-align:center; margin: 20px 0;">Eligibility Document Guides</h2>
+    <div class="doc-container">
+
+      <!-- Domicile Certificate -->
+<div class="doc-card" onclick="toggleDetails('domicile')">
+  <img src="https://img.icons8.com/ios-filled/64/E15D44/marker.png" alt="Domicile Certificate">
+  <h3>Domicile Certificate</h3>
+  <p>Must prove residence in a state/UT for a specified number of years (varies by state).</p>
+  <a href="domicile-certificate.html" class="hero-btn" style="display:inline-block; margin-top:10px;">View Details</a>
+</div>
+
+<!-- Senior Citizen Certificate -->
+<div class="doc-card" onclick="toggleDetails('senior')">
+  <img src="https://img.icons8.com/ios-filled/64/E15D44/old-man.png" alt="Senior Citizen Certificate">
+  <h3>Senior Citizen Certificate</h3>
+  <p>Age 60 years or above.</p>
+  <a href="senior-citizen-certificate.html" class="hero-btn" style="display:inline-block; margin-top:10px;">View Details</a>
+</div>
+
+<!-- Disability ID Card -->
+<div class="doc-card" onclick="toggleDetails('disability')">
+  <img src="https://img.icons8.com/ios-filled/64/E15D44/wheelchair.png" alt="Disability ID Card">
+  <h3>Disability ID Card (PwD)</h3>
+  <p>Certified disability (minimum percentage as per government norms).</p>
+  <a href="disability-id-card.html" class="hero-btn" style="display:inline-block; margin-top:10px;">View Details</a>
+</div>
+
+<!-- Caste Certificate -->
+<div class="doc-card" onclick="toggleDetails('caste')">
+  <img src="https://img.icons8.com/ios-filled/64/E15D44/conference.png" alt="Caste Certificate">
+  <h3>Caste Certificate</h3>
+  <p>Belonging to SC/ST/OBC as recognized by government.</p>
+  <a href="caste-certificate.html" class="hero-btn" style="display:inline-block; margin-top:10px;">View Details</a>
+</div>
+
+<!-- Income Certificate -->
+<div class="doc-card" onclick="toggleDetails('income')">
+  <img src="https://img.icons8.com/ios-filled/64/E15D44/rupee.png" alt="Income Certificate">
+  <h3>Income Certificate</h3>
+  <p>Income must be below specified limit for eligibility in schemes.</p>
+  <a href="income-certificate.html" class="hero-btn" style="display:inline-block; margin-top:10px;">View Details</a>
+</div>
+
+<!-- BPL Card -->
+<div class="doc-card" onclick="toggleDetails('bpl')">
+  <img src="https://img.icons8.com/?size=100&id=v2WXWIMq4y11&format=png&color=E15D44" alt="BPL Card">
+  <h3>BPL (Below Poverty Line) Card</h3>
+  <p>Family income below poverty threshold set by government.</p>
+  <a href="bpl-card.html" class="hero-btn" style="display:inline-block; margin-top:10px;">View Details</a>
+</div>
+
+<!-- Minority Community Certificate -->
+<div class="doc-card" onclick="toggleDetails('minority')">
+  <img src="https://img.icons8.com/ios-filled/64/E15D44/groups.png" alt="Minority Community Certificate">
+  <h3>Minority Community Certificate</h3>
+  <p>Belonging to notified minority communities.</p>
+  <a href="minority-community-certificate.html" class="hero-btn" style="display:inline-block; margin-top:10px;">View Details</a>
+</div>
+
+<!-- Marriage Certificate -->
+<div class="doc-card" onclick="toggleDetails('marriage')">
+  <img src="https://img.icons8.com/ios-filled/64/E15D44/wedding-rings.png" alt="Marriage Certificate">
+  <h3>Marriage Certificate</h3>
+  <p>Legal marriage age (18 for women, 21 for men) and proof of marriage.</p>
+  <a href="marriage-certificate.html" class="hero-btn" style="display:inline-block; margin-top:10px;">View Details</a>
+</div>
+
+  </section>
+</main>
+
+<footer>
+  © 2025 Government Document Guide | All Rights Reserved
+</footer>
+
+<script>
+function toggleDetails(id) {
+  var element = document.getElementById(id);
+  element.classList.toggle('show');
+}
+</script>
+
+</body>
+</html>

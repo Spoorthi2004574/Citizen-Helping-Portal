@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Financial Documents</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Financial Documents</h1>
+  <nav>
+    <a href="/index.html">Home</a>
+  </nav>
+</header>
+
+<main>
+  <section>
+    <h2 style="text-align:center; margin: 20px 0;">Financial Document Guides</h2>
+    <div class="doc-container">
+
+      <!-- Bank Account -->
+      <div class="doc-card" onclick="toggleDetails('bank')">
+        <img src="https://img.icons8.com/ios-filled/64/E15D44/bank-building.png" alt="Bank Account">
+        <h3>Bank Account</h3>
+        <p>Essential for financial transactions and salary deposits.</p>
+        <a href="bank-account.html" class="hero-btn" style="display:inline-block; margin-top:10px;">View Details</a>
+
+      </div>
+
+      <!-- Credit Card -->
+      <div class="doc-card" onclick="toggleDetails('credit')">
+        <img src="https://img.icons8.com/material/64/E15D44/bank-card-back-side.png" alt="Credit Card">
+        <h3>Credit Card</h3>
+        <p>Used for cashless transactions and online shopping.</p>
+        <a href="credit-card.html" class="hero-btn" style="display:inline-block; margin-top:10px;">View Details</a>
+
+    </div>
+
+     <!-- Credit Card -->
+      <div class="doc-card" onclick="toggleDetails('debit')">
+        <img src="https://img.icons8.com/material/64/E15D44/bank-card-back-side.png" alt="Credit Card">
+        <h3>Debit Card</h3>
+        <p>Used for cashless transactions and online shopping.</p>
+        <a href="debit-card.html" class="hero-btn" style="display:inline-block; margin-top:10px;">View Details</a>
+
+    </div>
+  </section>
+</main>
+
+<footer>
+  © 2025 Government Document Guide | All Rights Reserved
+</footer>
+
+<script>
+function toggleDetails(id) {
+  var element = document.getElementById(id);
+  element.classList.toggle('show');
+}
+</script>
+
+</body>
+</html>
