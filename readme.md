@@ -81,9 +81,46 @@ Citizen_help_portal/
 
 ![Homepage Screenshot](https://github.com/Spoorthi2004574/Citizen-Helping-Portal/blob/36ed895ccf9b44f9618677e97be4f5126180fccf/Screenshots/Home.png)
 
-### Document Guide Page
+### Quick-Explore Page
 
-![Document Guide](Screenshots/guide-page.png)
+![Quick Page](https://github.com/Spoorthi2004574/Citizen-Helping-Portal/blob/1bc80c542296486ab609024f434266ba77eceadc/Screenshots/Quick_explore.png)
+
+### Category List Page
+
+![Categories](https://github.com/Spoorthi2004574/Citizen-Helping-Portal/blob/1bc80c542296486ab609024f434266ba77eceadc/Screenshots/Categories.png)
+
+### Identity List Page
+
+![Identity Document](https://github.com/Spoorthi2004574/Citizen-Helping-Portal/blob/1bc80c542296486ab609024f434266ba77eceadc/Screenshots/Identity_documents.png)
+
+### Travel List Page
+
+![Travel Document](https://github.com/Spoorthi2004574/Citizen-Helping-Portal/blob/1bc80c542296486ab609024f434266ba77eceadc/Screenshots/Travel_documents.png)
+
+### Financial List Page
+
+![Financial Document](https://github.com/Spoorthi2004574/Citizen-Helping-Portal/blob/1bc80c542296486ab609024f434266ba77eceadc/Screenshots/Financial_documents.png)
+
+### Eligibility-Based List Page
+
+![Eligibility-Based Document](https://github.com/Spoorthi2004574/Citizen-Helping-Portal/blob/1bc80c542296486ab609024f434266ba77eceadc/Screenshots/Eligibilty_Based_Documents.png)
+
+### Document Details Page
+
+![Document Detail_exp(1)](https://github.com/Spoorthi2004574/Citizen-Helping-Portal/blob/1bc80c542296486ab609024f434266ba77eceadc/Screenshots/Document_details.png)
+
+![Document Detail_exp(2)](https://github.com/Spoorthi2004574/Citizen-Helping-Portal/blob/1bc80c542296486ab609024f434266ba77eceadc/Screenshots/doc_details(2).png)
+
+![Document Detail_exp(3)](https://github.com/Spoorthi2004574/Citizen-Helping-Portal/blob/1bc80c542296486ab609024f434266ba77eceadc/Screenshots/Doc_details(3).png)
+
+![Document Detail_exp(4)](https://github.com/Spoorthi2004574/Citizen-Helping-Portal/blob/1bc80c542296486ab609024f434266ba77eceadc/Screenshots/Doc_details(4).png)
+
+### Contact Page
+
+![Contact Page](https://github.com/Spoorthi2004574/Citizen-Helping-Portal/blob/1bc80c542296486ab609024f434266ba77eceadc/Screenshots/Contact_page.png)
+
+
+
 
 ## 🧑‍💻 How to Contribute
 
