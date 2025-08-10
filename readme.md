@@ -79,7 +79,7 @@ Citizen_help_portal/
 
 ### Homepage
 
-![Homepage Screenshot](Screenshots/homepage.png)
+![Homepage Screenshot](https://github.com/Spoorthi2004574/Citizen-Helping-Portal/blob/36ed895ccf9b44f9618677e97be4f5126180fccf/Screenshots/Home.png)
 
 ### Document Guide Page
 
