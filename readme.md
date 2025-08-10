@@ -75,6 +75,16 @@ Citizen_help_portal/
 2. Open the index.html file in any modern web browser.
 3. Use the search bar or categories to navigate through various government document guides.
 
+## Screenshots
+
+### Homepage
+
+![Homepage Screenshot](Screenshots/homepage.png)
+
+### Document Guide Page
+
+![Document Guide](Screenshots/guide-page.png)
+
 ## 🧑‍💻 How to Contribute
 
 1. Fork this repository.  
