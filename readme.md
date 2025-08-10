@@ -24,42 +24,10 @@ A simple and user-friendly web portal that provides comprehensive guides to citi
 *(This is a static website and can be hosted easily on GitHub Pages, Netlify, or any static hosting)*
 
 ---
-📂 Project Structure
+## 📂 Project Structure
+
 This project is organized into the following file structure:
 
-Citizen_help_portal/
-├── Eligibility-Based-Certificate/
-│   ├── bpl-card.html
-│   ├── caste-certificate.html
-│   ├── disability-id-card.html
-│   ├── domicile-certificate.html
-│   ├── Eligibility.html
-│   └── senior-citizen-certificate.html
-├── Financial-certificate/
-│   ├── bank-account.html
-│   ├── debit-card.html
-│   └── financial.html
-├── Identity-certificate/
-│   ├── adhaar.html
-│   ├── birth-certificate.html
-│   ├── driving-license.html
-│   ├── identity.html
-│   ├── pan.html
-│   └── voter.html
-├── Travel-certificate/
-│   ├── idp.html
-│   ├── passport.html
-│   ├── travel.html
-│   └── vehicle-rc.html
-├── Screenshots/
-├── contact.html
-├── guides.html
-├── img2.jpg
-├── index.html
-├── readme.md
-├── script.js
-├── style.css
-└── style2.css
 
 ---
 
